@@ -1,0 +1,6 @@
+{
+  "name": "AITPRM",
+  "description": "AITPRM - AI Third-Party Risk Management platform for comprehensive AI vendor risk assessment mapping vendor responses to CSA CAIQ v4 and AICM controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
